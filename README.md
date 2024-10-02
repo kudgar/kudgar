@@ -1,6 +1,8 @@
 ## Hi there
 
-I am a fullstack Java Script developer
+I am a fullstack Java Script developer. Сreate web applications and services.
+
+I work with:
 
 ![Docker](https://img.shields.io/badge/docker-containers-%232496ED?style=flat&logo=docker)
 ![Static Badge](https://img.shields.io/badge/white-programming-white?style=flat&logo=react&label=react&color=%2361DAFB)
